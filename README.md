@@ -10,3 +10,9 @@ A list of possible ways to make desktop apps in Julia
 | [SimpleDirectMediaLayer.jl](https://github.com/jonathanBieler/SimpleDirectMediaLayer.jl) | Yes               | Commonly known as SDL2. Seems pretty low level                                                       |
 | [Electron.jl](https://github.com/davidanthoff/Electron.jl)                               | Yes               | Electron-based, and seems to have significant start-up cost                                          |
 | [Blink.jl](https://github.com/JuliaGizmos/Blink.jl)                                      | Yes               | Electron-based, and seems to have a significant start-up cost                                        |
+| [CImGui.jl](https://github.com/Gnimuc/CImGui.jl)                                         | Yes               | Seems to have some widgets                                                                           |
+
+
+## Resource
+
+https://discourse.julialang.org/t/listing-all-the-ways-to-make-cross-platform-desktop-apps/47168
